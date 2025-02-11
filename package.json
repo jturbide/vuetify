@@ -78,7 +78,7 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
     "typescript": "~4.4.4",
-    "vue": "^2.7.8",
+    "vue": "^3.0.0",
     "vue-analytics": "^5.16.1",
     "vue-loader": "^15.10.0",
     "vue-meta": "^2.4.0",
